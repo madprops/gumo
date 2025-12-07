@@ -1,3 +1,0 @@
-# gumo.sh
-# gumo
-# gumo
